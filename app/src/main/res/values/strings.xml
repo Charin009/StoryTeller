@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StoryTeller</string>
+    <string name="gender1">Male</string>
+    <string name="gender2">Female</string>
+    <string name="genre1">Action</string>
+    <string name="genre2">Romance</string>
+    <string name="genre3">Comedy</string>
+</resources>
